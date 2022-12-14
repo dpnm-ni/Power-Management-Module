@@ -16,17 +16,24 @@ Some selected VMs with highly dynamic workload patterns from the Planet Lab work
 
 Requirements:
 
-Simulation of cloud data center is done using CloudSim simulator (version 3.0.3, 4.0)
-IDE: Eclipse with the latest JAVA
-Common Math Library
+•	Simulation of cloud data center is done using CloudSim simulator (version 3.0.3, 4.0)
+
+•	IDE: Eclipse with the latest JAVA
+
+•	Common Math Library
 
 Usage: 
 
-Install prerequisites and import module VM Consolidation for Power Management Mechanism Project
-Import required libraries by including JARs files
-Choose the LRR policy 
-Choose VM selection policy as MMTMU and MMT
-In case of comparison, use data centers with different configurations, such as by changing the number of hosts and VMs 
+•	Install prerequisites and import module VM Consolidation for Power Management Mechanism Project
+
+•	Import required libraries by including JARs files
+
+•	Choose the LRR policy 
+
+•	Choose VM selection policy as MMTMU and MMT
+
+•	In case of comparison, use data centers with different configurations, such as by changing the number of hosts and VMs 
+
 
 Reference:
 
